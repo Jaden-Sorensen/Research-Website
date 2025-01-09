@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Research Website</title>
+    </head>
+    <body>
+        <H1>This is a Research Website by: Jaden Sorensen</H1>
